@@ -167,6 +167,7 @@ plate for common tasks.
 ## Methods and tools for autoEDA
 - [10 Python Automatic EDA libraries which makes Data Scientist life easier](https://medium.com/datadriveninvestor/10-python-automatic-eda-libraries-which-makes-data-scientist-life-easier-825d0a928570)
 - [Better, Faster, Stronger Python Exploratory Data Analysis (EDA)](https://towardsdatascience.com/better-faster-stronger-python-exploratory-data-analysis-eda-e2a733890a64)
+- [Useful python libraries for Data Science](https://www.kaggle.com/parulpandey/useful-python-libraries-for-data-science)
 - [10 Simple Hacks to Speed up Your Data Analysis in Python](https://www.kdnuggets.com/2019/07/10-simple-hacks-speed-data-analysis-python.html)
 - [5 Quick and Easy Data Visualizations in Python with Code](https://www.kdnuggets.com/2018/07/5-quick-easy-data-visualizations-python-code.html)
 - [Interactive Data Exploration with “Big Data Tukey Plots”](http://www.absolutedc.com/resources/pdf/tukey.pdf) - automated visualization of big data.
