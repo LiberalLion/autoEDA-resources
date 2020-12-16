@@ -100,6 +100,10 @@ Pull requests with software, paper and conference presentations are welcome.
 ## Python libraries
 
 ### General Packages
+- [Pandas UI](https://github.com/arunnbaba/pandas_ui) - Pandas_ui is an efficient open-source alternative to bamboolib.
+
+- [Dabl](https://github.com/dabl/dabl) - This project tries to help make supervised machine learning more accessible for beginners, and reduce boiler 
+plate for common tasks.
 
 - [DataPrep](https://github.com/sfu-db/dataprep) (pip library) - data preparation library with an EDA package.
 
@@ -161,7 +165,9 @@ Pull requests with software, paper and conference presentations are welcome.
 # Papers and short articles
 
 ## Methods and tools for autoEDA
-
+- [10 Python Automatic EDA libraries which makes Data Scientist life easier](https://medium.com/datadriveninvestor/10-python-automatic-eda-libraries-which-makes-data-scientist-life-easier-825d0a928570)
+- [Better, Faster, Stronger Python Exploratory Data Analysis (EDA)](https://towardsdatascience.com/better-faster-stronger-python-exploratory-data-analysis-eda-e2a733890a64)
+- [10 Simple Hacks to Speed up Your Data Analysis in Python](https://www.kdnuggets.com/2019/07/10-simple-hacks-speed-data-analysis-python.html)
 - [Interactive Data Exploration with “Big Data Tukey Plots”](http://www.absolutedc.com/resources/pdf/tukey.pdf) - automated visualization of big data.
 - [Extracting Top-K Insights from Multi-dimensional Data](http://www4.comp.polyu.edu.hk/~csbtang/pub/SIGMOD17_insight.pdf).
 - [Agency plus Automation: Designing Artificial Intelligence into Interactive Systems](http://idl.cs.washington.edu/files/2019-AgencyPlusAutomation-PNAS.pdf)
