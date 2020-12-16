@@ -112,7 +112,9 @@ plate for common tasks.
 - [statsModels](http://www.statsmodels.org) (pip library) - collection of statistical tools, including EDA.
 
 - [TPOT](https://github.com/EpistasisLab/tpot) (pip library) - autoML tool with feature engineering module.
- 
+
+-[Lazy Predict](https://github.com/shankarpandala/lazypredict) (pip library) -  Lazy Predict helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
+
 - [HoloViews](https://github.com/pyviz/holoviews) (pip library) - automated visualization based on short data annotations.
 
 - [lens](https://github.com/facultyai/lens) (pip library) - fast calculation of summary statistics and correlations. [Presentation about the library](https://www.slideshare.net/VictorZabalza/automated-data-exploration-building-efficient-analysis-pipelines-with-dask-81328214).
