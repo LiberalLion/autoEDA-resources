@@ -113,7 +113,9 @@ plate for common tasks.
 
 - [TPOT](https://github.com/EpistasisLab/tpot) (pip library) - autoML tool with feature engineering module.
 
--[Lazy Predict](https://github.com/shankarpandala/lazypredict) (pip library) -  Lazy Predict helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
+- [Lazy Predict](https://github.com/shankarpandala/lazypredict) (pip library) -  Lazy Predict helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
+
+- [PyCaret](https://github.com/pycaret/pycaret) (pip library) - PyCaret is a low-code python wrapper around several data science and machine learning libraries such as scikit-learn and xgboost
 
 - [HoloViews](https://github.com/pyviz/holoviews) (pip library) - automated visualization based on short data annotations.
 
@@ -168,6 +170,7 @@ plate for common tasks.
 
 ## Methods and tools for autoEDA
 - [10 Python Automatic EDA libraries which makes Data Scientist life easier](https://medium.com/datadriveninvestor/10-python-automatic-eda-libraries-which-makes-data-scientist-life-easier-825d0a928570)
+- [The Hidden Gems of Python – Libraries that make Data Science a Cakewalk](https://www.analyticsvidhya.com/blog/2020/10/the-hidden-gems-of-python-libraries-that-make-data-science-a-cakewalk/)
 - [Better, Faster, Stronger Python Exploratory Data Analysis (EDA)](https://towardsdatascience.com/better-faster-stronger-python-exploratory-data-analysis-eda-e2a733890a64)
 - [Useful python libraries for Data Science](https://www.kaggle.com/parulpandey/useful-python-libraries-for-data-science)
 - [10 Simple Hacks to Speed up Your Data Analysis in Python](https://www.kdnuggets.com/2019/07/10-simple-hacks-speed-data-analysis-python.html)
